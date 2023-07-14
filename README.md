@@ -2,6 +2,7 @@
 
 ## api/PersonInterest/GetAllPersons
 **Respons**
+{
 [
   {
     "id": 1,
@@ -26,3 +27,4 @@
     "telephoneNumber": "070-1234567"
   }
 ]
+}
